@@ -86,11 +86,9 @@ div{
     border-top: none;
     border-right: solid 10px;
     border-bottom: solid 3px;
-    
 }
 
 span {
-
     text-decoration: underline;
     text-transform: uppercase;
     text-shadow: none;
